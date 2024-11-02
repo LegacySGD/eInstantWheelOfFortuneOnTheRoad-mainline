@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="sv">
+<phrase key="softwareId" value="Mjukvaru-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Totalvinster"/>
+<phrase key="totalWager" value="Totalinsats"/>
+<phrase key="scenario" value="Scenario"/>
+<phrase key="turnData" value="Omgångsdata"/>
+<phrase key="winningNumbers" value="Vinnande nummer"/>
+<phrase key="wins" value="Vinster"/>
+<phrase key="instantWin" value="Direktvinst"/>
+<phrase key="bonusFuel" value="Bonusbränsle"/>
+<phrase key="possScenarios" value="Möjliga scenarier"/>
+<phrase key="location" value="Plats"/>
+<phrase key="location1" value="Strand"/>
+<phrase key="location2" value="Stad"/>
+<phrase key="location3" value="Skog"/>
+<phrase key="location4" value="Berg"/>
+<phrase key="location5" value="Bergstopp"/>
+<phrase key="number" value="Nummer"/>
+<phrase key="prize" value="Pris"/>
+<phrase key="win" value="Vinst"/>
+<phrase key="noWin" value="Ingen vinst"/>
+<phrase key="scenarioDesc" value="Använt scenario baseras på nivånummer vid tiden för transaktionen. Utfallet är förutbestämt – alla scenarier har samma slutpris."/>
+<phrase key="basedOnLevels" value="Baserat på nivånummer"/>
+<phrase key="levelsDesc1" value="1–4"/>
+<phrase key="levelsDesc2" value="5–10"/>
+<phrase key="levelsDesc3" value="11–18"/>
+<phrase key="levelsDesc4" value="19–28"/>
+<phrase key="levelsDesc5" value="29"/>
+</translation>

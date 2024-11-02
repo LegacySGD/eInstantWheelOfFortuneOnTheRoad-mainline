@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="de">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Gewinne gesamt"/>
+<phrase key="totalWager" value="Einsatz gesamt"/>
+<phrase key="scenario" value="Szenario"/>
+<phrase key="turnData" value="Spielzugdaten"/>
+<phrase key="winningNumbers" value="Gewinnzahlen"/>
+<phrase key="wins" value="Gewinne"/>
+<phrase key="instantWin" value="Sofortgewinn"/>
+<phrase key="bonusFuel" value="Bonussprit"/>
+<phrase key="possScenarios" value="Mögliche Szenarien"/>
+<phrase key="location" value="Ort"/>
+<phrase key="location1" value="Strand"/>
+<phrase key="location2" value="Stadt"/>
+<phrase key="location3" value="Wald"/>
+<phrase key="location4" value="Berg"/>
+<phrase key="location5" value="Gipfel"/>
+<phrase key="number" value="Zahl"/>
+<phrase key="prize" value="Preis"/>
+<phrase key="win" value="Gewinn"/>
+<phrase key="noWin" value="Kein Gewinn"/>
+<phrase key="scenarioDesc" value="Das angewandte Szenario basiert auf der Levelanzahl zur Zeit der Transaktion. Ergebnis ist vorher festgelegt – alle Szenarien haben den gleichen Endpreis."/>
+<phrase key="basedOnLevels" value="Basierend auf der Levelanzahl"/>
+<phrase key="levelsDesc1" value="1 - 4"/>
+<phrase key="levelsDesc2" value="5 - 10"/>
+<phrase key="levelsDesc3" value="11 - 18"/>
+<phrase key="levelsDesc4" value="19 - 28"/>
+<phrase key="levelsDesc5" value="29"/>
+</translation>

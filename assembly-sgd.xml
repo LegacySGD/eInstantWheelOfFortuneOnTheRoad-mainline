@@ -1,0 +1,27 @@
+<assembly>
+	<id>sgd</id>
+	<formats>
+		<format>zip</format>
+	</formats>
+	<includeBaseDirectory>false</includeBaseDirectory>
+	<fileSets>
+		<!-- force tool -->
+		<fileSet>
+			<directory>${basedir}/target/app</directory>
+			<outputDirectory>/app</outputDirectory>
+			<includes>
+				<include>**/*</include>
+			</includes>
+		</fileSet>
+		<fileSet>
+			<directory>${basedir}/target</directory>
+			<outputDirectory>/</outputDirectory>
+			<includes>
+				<include>gamefiles/**/datafiles/*xml*.jar</include>
+				<include>gamefiles/**/datafiles/*ghst*.jar</include>
+				<include>gamefiles/**/datafiles/*.buildtag</include>
+				<include>gamefiles/**/*.sql</include>
+			</includes>
+		</fileSet>
+	</fileSets>
+</assembly>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="it">
+<phrase key="softwareId" value="ID Software"/>
+<phrase key="transactionId" value="ID Transazione"/>
+<phrase key="totalWins" value="Totale Vincite"/>
+<phrase key="totalWager" value="Puntata Totale"/>
+<phrase key="scenario" value="Scenario"/>
+<phrase key="turnData" value="Dati del giro"/>
+<phrase key="winningNumbers" value="Numeri Vincenti"/>
+<phrase key="wins" value="Vincite"/>
+<phrase key="instantWin" value="Vincita Istantanea"/>
+<phrase key="bonusFuel" value="Carburante Bonus"/>
+<phrase key="possScenarios" value="Possibili Scenari"/>
+<phrase key="location" value="Località"/>
+<phrase key="location1" value="Spiaggia"/>
+<phrase key="location2" value="Città"/>
+<phrase key="location3" value="Foresta"/>
+<phrase key="location4" value="Montagna"/>
+<phrase key="location5" value="Picco"/>
+<phrase key="number" value="Numero"/>
+<phrase key="prize" value="Premio"/>
+<phrase key="win" value="Vincita"/>
+<phrase key="noWin" value="Nessuna Vincita"/>
+<phrase key="scenarioDesc" value="Lo scenario usato si basa sul numero del livello al momento della transazione. Il risultato è predeterminato - tutti gli scenari hanno lo stesso premio finale."/>
+<phrase key="basedOnLevels" value="Basato sul numero del livello"/>
+<phrase key="levelsDesc1" value="1 - 4"/>
+<phrase key="levelsDesc2" value="5 - 10"/>
+<phrase key="levelsDesc3" value="11 - 18"/>
+<phrase key="levelsDesc4" value="19 - 28"/>
+<phrase key="levelsDesc5" value="29"/>
+</translation>
